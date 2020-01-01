@@ -1,4 +1,4 @@
-"# musicdb"
+# musicdb
 * A sample Flask app showing how to use database and forms.
 * Tested on 01/01/2020
 * Run the app
