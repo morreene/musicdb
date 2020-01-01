@@ -4,7 +4,7 @@
 * Run the app
 
 ```# run program
-cd findtariff.com
+cd APP_DIRECTORY
 set FLASK_APP=app.py
 flask run
 ```
